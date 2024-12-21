@@ -34,7 +34,7 @@ const routes = [
   {
     label: "Liste noire",
     icon: Shield,
-    href: "/blacklist",
+    href: "/blacks",
     color: "text-zinc-400",
   },
   {
@@ -68,8 +68,8 @@ export function Sidebar() {
           </div>
         </div>
         <div>
-          <h3 className="text-white font-medium">Samantha</h3>
-          <p className="text-sm text-zinc-400">samantha@email.com</p>
+          <h3 className="text-white font-medium">Wilaya</h3>
+          <p className="text-sm text-zinc-400">@boumerdasDirection</p>
         </div>
       </div>
 
